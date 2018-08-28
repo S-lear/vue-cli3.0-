@@ -19,7 +19,7 @@ npm run build
 ```
 npm run lint
 ```
-```
+**
 # |--dist 生成打包后文件
 # |--node_modules 安装的依赖包
 # |--public public中的静态资源会被复制到输出目录(dist)中
@@ -58,4 +58,4 @@ npm run lint
 # |-- .gitignore 配置不提交到git仓库的文件
 # |-- babel.config 参见https://cli.vuejs.org/zh/config/#babel
 # |-- vue.config.js 参见https://cli.vuejs.org/zh/config/#vue-config-js
-```
+**
