@@ -5,13 +5,13 @@
 </template>
 
 <script>
-import {user_env} from '@/api/index.js'
+import {env} from '@/api/index.js'
 
 export default {
   name: 'HelloWorld',
   data () {
     return {
-      user_env
+      user_env: env
     }
   },
   props: {

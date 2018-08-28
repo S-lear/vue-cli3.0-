@@ -1,4 +1,4 @@
-import moduleA from './module_A.js'
+import about from './about.js'
 export default {
-  moduleA
+  about
 }

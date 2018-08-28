@@ -1,3 +1,6 @@
 export {
+  env
+} from './config.js'
+export {
   getuserInfo
-} from './services/user.js'
+} from './services/about.js'

@@ -7,6 +7,12 @@ export default [
   {
     path: '/about',
     name: 'about',
-    component: () => import('@/views/About/index.vue')
+    component: () => import('@/views/About/index.vue'),
+    children: [
+      {
+        path: '/child_1',
+        component: () => import('@/views/About/Child/index.vue')
+      }
+    ]
   }
 ]
