@@ -19,6 +19,7 @@ npm run build
 ```
 npm run lint
 ```
+```
 **
 # |--dist 生成打包后文件
 # |--node_modules 安装的依赖包
@@ -59,3 +60,4 @@ npm run lint
 # |-- babel.config 参见https://cli.vuejs.org/zh/config/#babel
 # |-- vue.config.js 参见https://cli.vuejs.org/zh/config/#vue-config-js
 **
+```
