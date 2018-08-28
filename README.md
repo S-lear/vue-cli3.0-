@@ -1,4 +1,4 @@
-# hello-word-2
+# 根据vue-cli3.0搭建项目结构
 
 ## Project setup
 ```
